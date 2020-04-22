@@ -40,6 +40,6 @@ print(num_1>=num_2) #Greater than equal to
 
 a='200'
 b='300'
-a=int(a)
-b=int(b)
+a=int(a) #casting
+b=int(b) #casting
 print(a+b)
